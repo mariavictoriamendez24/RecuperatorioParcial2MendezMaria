@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "titulo": "Ensalada de quinoa",
+      "descripcion": "Ensalada fresca y nutritiva con quinoa, tomate, pepino y aderezo de limón.",
+      "ingredientes": ["Quinoa", "Tomate", "Pepino", "Limón"]
+    },
+    {
+      "id": 2,
+      "titulo": "Batido de frutas",
+      "descripcion": "Batido refrescante con fresas, plátano, piña y leche de almendras.",
+      "ingredientes": ["Fresas", "Plátano", "Piña", "Leche de almendras"]
+    },
+    {
+      "id": 3,
+      "titulo": "Pollo al horno con verduras",
+      "descripcion": "Plato principal con pollo asado al horno, acompañado de papas y vegetales asados.",
+      "ingredientes": ["Pechuga de pollo", "Papas", "Zanahorias", "Calabacín"]
+    }
+  ]
+  

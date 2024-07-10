@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66270c9d0377298a8f32b369"
+  },
+  "titulo": "Te para los malestares",
+  "ingredientes": "Agus, Jengibre, Miel y Limon ",
+  "Descripcion": "Este té es reconfortante y vigorizante, perfecto para los días fríos o para aumentar la energía en cualquier momento del día. El jengibre ayuda a mejorar la digestión y el limón agrega un toque refrescante.",
+  "estado": "true\n"
+},
+{
+  "_id": {
+    "$oid": "66270d160377298a8f32b36a"
+  },
+  "titulo": "Ensalada de Quinoa y Verduras",
+  "ingredientes": "Quinoa, verduras frescas, limon, aceite y hiervas frescas ",
+  "Descripcion": "Esta ensalada es nutritiva, equilibrada y deliciosa. La quinoa es una excelente fuente de proteínas y fibra, y las verduras frescas añaden vitaminas y minerales importantes."
+},
+{
+  "_id": {
+    "$oid": "66270d650377298a8f32b36b"
+  },
+  "titulo": "Sopa de Lentejas y Vegetales",
+  "ingredientes": "Lenteja, cebolla, ajo, zanahoria, apio, caldo de verduras, sal y pimienta ",
+  "Descripcion": "Esta sopa es reconfortante, nutritiva y fácil de digerir. Las lentejas son una excelente fuente de proteínas y fibras, y los vegetales añaden sabor y nutrientes adicionales"
+},
+{
+  "_id": {
+    "$oid": "66303f10671d1b4596018660"
+  },
+  "titulo": "enslada pranisima",
+  "ingredientes": "rucula, queso, jamon crudo, aceite, aceitunas, ",
+  "descripcion": "es una receta sana y liviana para el verano"
+},
+{
+  "_id": {
+    "$oid": "66319053a942463b449ccc69"
+  },
+  "titulo": "liq",
+  "descripcion": "Licuado de pera ideal para roper con el ayuno y tener mucha energia durante el dia",
+  "ingredientes": "pera, agua, miel, canela",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66366204b8007d2dc63d40f3"
+  },
+  "titulo": "Te de frutos rojos",
+  "descripcion": "Este té es reconfortante y vigorizante, perfecto para los días fríos o para aumentar la energía en cualquier momento del día. El jengibre ayuda a mejorar la digestión y el limón agrega un toque refrescante.",
+  "ingredientes": "Agus, frutos rojos, Miel y Limon ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6636750c4abc6ed4d472f939"
+  },
+  "titulo": "Ensalada de champinion",
+  "descripcion": "Esta ensalada es nutritiva, equilibrada y deliciosa, con una gran cantidad de nutrientes y calorias",
+  "ingredientes": "champinion, verduras frescas, limon, aceite y hiervas frescas ",
+  "__v": 0
+}]
